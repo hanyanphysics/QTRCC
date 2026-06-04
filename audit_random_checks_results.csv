@@ -1,0 +1,16 @@
+model_id,L,k,rank_HZ,rank_HX,seed,hash,z_checks_csv,x_checks_csv,z_rows,x_rows,topology_ok,commutation_ok,status
+L10_model_01,10,4,998,998,2027031000,58965d709f2f3c4ce3f4e4472e27da28e7ae054d,L10/L10_model_01/z_checks.csv,L10/L10_model_01/x_checks.csv,1000,1000,1,1,ok
+L18_model_01,18,4,5830,5830,2026031802,b79b76ea2e5dce45e06397345db1f91109ba64b3,L18/L18_model_01/z_checks.csv,L18/L18_model_01/x_checks.csv,5832,5832,1,1,ok
+L25_model_01,25,2,15624,15624,2026032511,82e8fa290f8de0ac957929cd20a741906e703106,L25/L25_model_01/z_checks.csv,L25/L25_model_01/x_checks.csv,15625,15625,1,1,ok
+L14_model_46,14,4,2742,2742,2028141454,e72ea37ea61c0577b7befaa410ca945cbfc2894d,L14/L14_model_46/z_checks.csv,L14/L14_model_46/x_checks.csv,2744,2744,1,1,ok
+L12_model_11,12,4,1726,1726,2029121263,56306ec9cd496bf74372fc41e1ef86da6689e57f,L12/L12_model_11/z_checks.csv,L12/L12_model_11/x_checks.csv,1728,1728,1,1,ok
+L10_model_18,10,4,998,998,2027031018,f5586b4582ee380dd4d47c4ae50a811c6873a2dd,L10/L10_model_18/z_checks.csv,L10/L10_model_18/x_checks.csv,1000,1000,1,1,ok
+L13_model_14,13,2,2196,2196,2028131313,47dfbcac5cf9b0d9a115b71c405c3d9a4c1dc496,L13/L13_model_14/z_checks.csv,L13/L13_model_14/x_checks.csv,2197,2197,1,1,ok
+L10_model_08,10,4,998,998,2027031008,16065c412715b2810473ca2d6f869c53d03ff948,L10/L10_model_08/z_checks.csv,L10/L10_model_08/x_checks.csv,1000,1000,1,1,ok
+L13_model_10,13,2,2196,2196,2028131309,868e385693e134fb82e0db831805dbbf470c3c0e,L13/L13_model_10/z_checks.csv,L13/L13_model_10/x_checks.csv,2197,2197,1,1,ok
+L15_model_06,15,2,3374,3374,2026031515,e877621dcaa5b73cd6101334bfb4242401c1783b,L15/L15_model_06/z_checks.csv,L15/L15_model_06/x_checks.csv,3375,3375,1,1,ok
+L25_model_05,25,2,15624,15624,2026052564,33be35ee345f55b21a66d201456a86fa1bd4f570,L25/L25_model_05/z_checks.csv,L25/L25_model_05/x_checks.csv,15625,15625,1,1,ok
+L13_model_13,13,2,2196,2196,2028131312,92aa6c0e3f6892ff436772b5331360db061062da,L13/L13_model_13/z_checks.csv,L13/L13_model_13/x_checks.csv,2197,2197,1,1,ok
+L12_model_06,12,4,1726,1726,2029121234,a3e5d5bce2e1e0b682b3924688bffdd02e397af6,L12/L12_model_06/z_checks.csv,L12/L12_model_06/x_checks.csv,1728,1728,1,1,ok
+L18_model_14,18,4,5830,5830,2026031838,bb8e3aa8717a3b4823f545a396f6227a0062c1fb,L18/L18_model_14/z_checks.csv,L18/L18_model_14/x_checks.csv,5832,5832,1,1,ok
+L11_model_22,11,2,1330,1330,2027101104,17ebc8a29c56d17eb498a54e2ca2c99c3bb4acf7,L11/L11_model_22/z_checks.csv,L11/L11_model_22/x_checks.csv,1331,1331,1,1,ok
