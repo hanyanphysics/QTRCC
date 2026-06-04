@@ -15,7 +15,7 @@ exported model and to see its basic code parameters.
 ## Folder Layout
 
 ```text
-results_publish/curated_qtrcc_check_csv_L10_L25/
+curated_qtrcc_check_csv_L10_L25/
   README.md
   manifest.csv
   L10/
@@ -232,7 +232,7 @@ from `z_checks.csv` and `x_checks.csv`, and verifies:
 The included result CSV was generated with:
 
 ```bash
-python3 results_publish/curated_qtrcc_check_csv_L10_L25/audit_random_checks.py \
+python3 audit_random_checks.py \
   --samples 12 \
   --seed 20260604 \
   --include L10_model_01,L18_model_01,L25_model_01
