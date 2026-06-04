@@ -1,16 +1,40 @@
 # Curated QtRCC Check CSVs, L=10..25
 
-This folder contains only the local stabilizer-check CSV data for the curated
+This repository contains the local stabilizer-check CSV data for the curated
 QtRCC publication examples with `L=10..25`.
+
+## Associated Manuscript
+
+These data accompany the manuscript:
+
+```text
+Han Yan,
+"Random Local Stabilizer Codes without String or Self-Similar Fractal Operators"
+(dated June 4, 2026).
+```
+
+The paper introduces the qutrit random cubic code (QtRCC): a constrained-random
+CSS stabilizer-code family on the local cube support of Haah's code, with two
+qutrits per lattice site and spatially varying nonzero Pauli powers over
+`F_3`. The coefficient fields are chosen so that the local topology relation
+and all CSS commutation equations hold exactly.
+
+This repository contains the curated periodic-lattice examples used for the
+finite-size diagnostics in the paper. In that collection, the retained models
+at `10 <= L <= 25` attain the smallest observed ground-state degeneracy for
+their system size (`k = 2` for odd `L`, `k = 4` for even `L`). The CSV files
+are intended to make the stabilizer checks in those examples directly
+reconstructable without including the larger search outputs, provenance files,
+or helper artifacts from the working project.
 
 For each model, the files are:
 
 - `z_checks.csv`: the Z-type stabilizer check parameters.
 - `x_checks.csv`: the X-type stabilizer check parameters.
 
-The original model folders also contain provenance, solution, and helper files;
-those are intentionally not copied here. Use `manifest.csv` to locate every
-exported model and to see its basic code parameters.
+Use `manifest.csv` to locate every exported model and to see its basic code
+parameters. Search seeds, hash identifiers, and other project-local provenance
+metadata are intentionally not included.
 
 ## Folder Layout
 
